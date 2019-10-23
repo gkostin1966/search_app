@@ -15,6 +15,7 @@
 //
 // Required by Blacklight
 //= require jquery
+//= require jquery-ui
 //= require popper
 // Twitter Typeahead for autocomplete
 //= require twitter/typeahead
